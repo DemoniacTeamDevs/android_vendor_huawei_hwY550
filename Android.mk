@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),g620s)
+ifeq ($(TARGET_DEVICE),y550)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := com.qualcomm.location
