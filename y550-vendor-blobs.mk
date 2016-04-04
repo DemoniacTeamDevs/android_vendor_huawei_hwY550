@@ -248,10 +248,10 @@ PRODUCT_COPY_FILES += \
     $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_snapshot.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_snapshot.so \
     $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_preview.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_preview.so \
     $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_snapshot.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_snapshot.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_common.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_common.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_default_video.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_default_video.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_preview.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_preview.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_snapshot.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_snapshot.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_common.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_common.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_default_video.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_default_video.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_preview.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_preview.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_snapshot.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_snapshot.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_5987fhq_common.so:system/vendor/lib/libchromatix_ov2680_5987fhq_common.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so:system/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_5987fhq_preview.so:system/vendor/lib/libchromatix_ov2680_5987fhq_preview.so \
@@ -270,10 +270,10 @@ PRODUCT_COPY_FILES += \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_snapshot.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_snapshot.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_preview.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_preview.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_snapshot.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_snapshot.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_common.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_common.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_default_video.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_default_video.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_preview.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_preview.so \
-    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_snapshot.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_snapshot.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_common.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_common.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_default_video.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_default_video.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_preview.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_preview.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_snapshot.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_snapshot.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_preview.so:system/vendor/lib/libchromatix_ov2680_preview.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2680_snapshot.so:system/vendor/lib/libchromatix_ov2680_snapshot.so \
     $(PATH_FILES)/vendor/lib/libchromatix_ov2720_common.so:system/vendor/lib/libchromatix_ov2720_common.so \
